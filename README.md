@@ -1,14 +1,14 @@
 ![Untitled](https://user-images.githubusercontent.com/43202025/106874909-b0e30780-6708-11eb-8dab-7304e0fa56ad.png)
 
+<p align='center'>
+<a href="https://www.linkedin.com/in/vutuanhai237"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/linkined.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/vutuanhai237"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/124010.png"></a>&nbsp;&nbsp;
+<a href="https://spiderum.com/nguoi-dung/haimeohung"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/blog.png"></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/c/V%C5%A9Tu%E1%BA%A5nH%E1%BA%A3i"><img height="30" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/youtube.png"></a>&nbsp;&nbsp;
+</p>
 Hi all!
 
 I am a UIT - VNUHCM, Vietnam University student. Skepticism, nihilism, purism and communism are of special concern to me. Functional programming, quantum computing, generative model (GAN), UI creation are the fields in which I work. I really enjoyed Haskell, JavaScript, and Python.
-
-## Get in touch
-
-- LinkedIn: [https://www.linkedin.com/in/vutuanhai237/][2]
-- Facebook: [https://www.facebook.com/vutuanhai237/][3]
-- Blog: [https://spiderum.com/nguoi-dung/haimeohung][4]
 
 ## My Garden
 
