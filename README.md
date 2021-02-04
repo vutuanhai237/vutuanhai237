@@ -16,9 +16,9 @@ I am a UIT - VNUHCM, Vietnam University student. Skepticism, nihilism, purism an
   
 ## My Garden
 
-You can find my blog posts on [https://spiderum.com/nguoi-dung/haimeohung][4]. I write about things that may be special and unfamiliar to you, including **Cryptography**, **Quantum computing** , and **Philosophy**. I also write about programming at https://www.facebook.com/groups/bht.cnpm.uit.
+You can find my blog posts on https://spiderum.com/nguoi-dung/haimeohung. I write about things that may be special and unfamiliar to you, including **Cryptography**, **Quantum computing** , and **Philosophy**. I also write about programming at https://www.facebook.com/groups/bht.cnpm.uit.
   
-## &#x1f4c8; My GitHub Stats
+## My GitHub Stats
 
 <a href="https://github.com/vutuanhai237/vutuanhai237">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutuanhai237&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
