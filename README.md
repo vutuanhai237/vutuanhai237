@@ -10,15 +10,15 @@
 </p>
 Hi all!
 
-I am a UIT - VNUHCM, Vietnam University student. Skepticism, nihilism, purism and communism are of special concern to me. Functional programming, quantum computing, generative model (GAN) are the fields in which I work. I really enjoyed Haskell, JavaScript, and Python.
+I am a graduated UIT - VNUHCM student. Skepticism, nihilism, purism and communism are of special concern to me. Functional programming, quantum computing, generative model (GAN) are the fields in which I work. I really enjoyed Haskell, JavaScript, and Python.
 
   ---
   
-## My Garden
+## Garden
 
-You can find my blog posts on https://spiderum.com/nguoi-dung/haimeohung and http://vutuanhai237.github.io/. I write about things that may be unfamiliar to you, including **Cryptography**, **Quantum computing**, and **Philosophy**. I also write about programming at https://www.facebook.com/groups/bht.cnpm.uit.
+You can find my blog posts on https://spiderum.com/nguoi-dung/haimeohung and http://vutuanhai237.github.io/. I write about things including **Cryptography**, **Quantum computing**, and **Philosophy**. I also write about programming at https://www.facebook.com/groups/bht.cnpm.uit.
   
-## My GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/vutuanhai237/vutuanhai237">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vutuanhai237&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
