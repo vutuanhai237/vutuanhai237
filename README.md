@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
+  <img style="object-fit: cover;" width="460" height="300" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
 </p>
 
 A farmer at UIT - VNUHCM.
