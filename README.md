@@ -2,10 +2,7 @@
   <img width="460" height="300" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
 </p>
 
-
-Hi all!
-
-I am a graduated UIT - VNUHCM student. Skepticism, nihilism, purism and communism are of special concern to me. Functional programming, quantum computing, generative model (GAN) are the fields in which I work. I really enjoyed Haskell, JavaScript, and Python.
+Farmer at UIT - VNUHCM.
 
   ---
   
