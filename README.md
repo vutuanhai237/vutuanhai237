@@ -2,7 +2,7 @@
   <img width="460" height="300" src="https://github.com/vutuanhai237/vutuanhai237/blob/main/cat.gif">
 </p>
 
-Farmer at UIT - VNUHCM.
+A farmer at UIT - VNUHCM.
 
   ---
   
