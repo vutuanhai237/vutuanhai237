@@ -6,7 +6,7 @@
   
 ## Garden
 
-You can find my blog posts on [Spriderum](https://spiderum.com/nguoi-dung/haimeohung) and [Personal website](http://vutuanhai237.github.io/). I write about things including **Cryptography**, **Quantum computing**, and **Philosophy**. I also write about programming at [Facebook](https://www.facebook.com/groups/bht.cnpm.uit).
+You can find my blog posts on [Spiderum](https://spiderum.com/nguoi-dung/haimeohung), [Facebook](https://www.facebook.com/groups/bht.cnpm.uit) and [Personal website](http://vutuanhai237.github.io/). I research about things including **Cryptography**, **Quantum computing**, and **Philosophy**.
 
 ## Social Networks
 
